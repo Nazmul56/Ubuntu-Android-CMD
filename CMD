@@ -59,6 +59,9 @@ http://www.securitylearn.net/2013/08/31/google-play-store-on-android-emulator/
 Linux
 http://stackoverflow.com/questions/11154222/google-play-on-android-4-0-emulator
 
+>>Add toolbar to an app
+ http://developer.android.com/training/appbar/setting-up.html
+
 
 *****************************************************************************************************
 ....Install Avro In Linux....
