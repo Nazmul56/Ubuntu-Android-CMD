@@ -61,6 +61,9 @@ http://stackoverflow.com/questions/11154222/google-play-on-android-4-0-emulator
 
 >>Add toolbar to an app
  http://developer.android.com/training/appbar/setting-up.html
+ 
+ Navigation indecator Color change
+ http://stackoverflow.com/questions/31626488/change-the-color-of-navigation-drawer-indicator-icon
 
 
 *****************************************************************************************************
