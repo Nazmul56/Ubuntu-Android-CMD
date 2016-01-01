@@ -64,6 +64,12 @@ http://stackoverflow.com/questions/11154222/google-play-on-android-4-0-emulator
  
  Navigation indecator Color change
  http://stackoverflow.com/questions/31626488/change-the-color-of-navigation-drawer-indicator-icon
+ 
+ Different Matarial Animation
+ https://github.com/lgvalle/Material-Animations
+ 
+ SettingActivity PreferencesActivity
+ https://github.com/AndroidDeveloperLB/MaterialPreferenceLibrary
 
 
 *****************************************************************************************************
