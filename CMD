@@ -70,7 +70,8 @@ http://stackoverflow.com/questions/11154222/google-play-on-android-4-0-emulator
  
  SettingActivity PreferencesActivity
  https://github.com/AndroidDeveloperLB/MaterialPreferenceLibrary
-
+ Different payment methods
+ http://www.freelancerstory.com/
 
 *****************************************************************************************************
 ....Install Avro In Linux....
