@@ -6,9 +6,10 @@ To Run Emulator
 <pre>
 export LD_LIBRARY_PATH="/home/nazmul/Android/Sdk/tools/lib64:$LD_LIBRARY_PATH"
 cd /home/nazmul/Android/Sdk/tools
-~/Android/Sdk/tools$ ./emulator64-x86 -avd foo -gpu on
+~/Android/Sdk/tools$ ./emulator64-x86 -avd <device name> -gpu on
 </pre>
 or
+--
 ######install apk in command line
 <pre>
 adb install <path_to_your_bin>.apk
