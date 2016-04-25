@@ -54,6 +54,16 @@ adb -s emulator-5554 install path/to/your/app.apk
 adb -d install path/to/your/app.apk
 </pre>
 
+#Install Git For share source Code on Github
+<pre>
+sudo apt install git
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+
+</pre>
+
 ImortantLinks
 -------------
 #####Sliding photo from Json
