@@ -86,4 +86,7 @@ http://www.freelancerstory.com/
 
 Install Avro In Linux
 ---------------------
+how to use git in command line 
+https://git-scm.com/book/en/v1/Git-Branching-What-a-Branch-Is
+
 http://linux.omicronlab.com/ubuntu_14.04.html
