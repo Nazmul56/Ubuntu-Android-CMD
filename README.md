@@ -30,6 +30,11 @@ platform-tools$ adb push /home/nazmul/Downloads/Phonesky.apk /system/app/.
 platform-tools$ adb shell rm /system/app/SdkSetup*
 </pre>
 
+Max Capacity of PC's RAM
+<pre>
+sudo dmidecode -t 16
+</pre>
+
 Install LAMP
 ------------
 
