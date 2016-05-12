@@ -9,7 +9,7 @@ cd /home/nazmul/Android/Sdk/tools
 ~/Android/Sdk/tools$ ./emulator64-x86 -avd <device name> -gpu on
 </pre>
 or
---
+-- 
 ######install apk in command line
 <pre>
 adb install <path_to_your_bin>.apk
@@ -71,6 +71,8 @@ git config --global user.name "Your Name"
 
 ImortantLinks
 -------------
+#Git try
+https://try.github.io/levels/1/challenges/1
 #####Sliding photo from Json
 http://androidopentutorials.com/
 #####Google Play Service In Emulator
