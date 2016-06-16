@@ -73,6 +73,10 @@ sudo sensors-detect
 sudo service kmod start
 It will ask you few questions. Answer Yes for all of them. 
 $ sensors
+
+HDD Tempurature 
+sudo apt-get install hddtemp
+sudo hddtemp /dev/sda  
 </pre>
 
 ImortantLinks
