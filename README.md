@@ -65,8 +65,14 @@ sudo apt install git
 
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
-
-
+</pre>
+#Temparature Monitor
+<pre>
+sudo apt-get install lm-sensors 
+sudo sensors-detect
+sudo service kmod start
+It will ask you few questions. Answer Yes for all of them. 
+$ sensors
 </pre>
 
 ImortantLinks
