@@ -10,7 +10,7 @@ cd /home/nazmul/Android/Sdk/tools
 </pre>
 or
 -- 
-######install apk in command line
+install apk in command line
 <pre>
 adb install <path_to_your_bin>.apk
 adb -s emulator-5554 install path/to/your/app.apk
@@ -48,9 +48,9 @@ $ sudo apt-get install lamp-server^
 Install Grameenphone Modem IN LINUX
 -----------------------------------
 
-######Save the PCL_Bengle file to home or Download Directory
-######Go to that location in terminal
-##run the command 
+Save the PCL_Bengle file to home or Download Directory
+Go to that location in terminal
+run the command 
 <pre>
 sudo ./install.sh
 install apk in command line
@@ -59,7 +59,7 @@ adb -s emulator-5554 install path/to/your/app.apk
 adb -d install path/to/your/app.apk
 </pre>
 
-#Install Git For share source Code on Github
+Install Git For share source Code on Github
 <pre>
 sudo apt install git
 
@@ -78,27 +78,30 @@ HDD Tempurature
 sudo apt-get install hddtemp
 sudo hddtemp /dev/sda  
 </pre>
-
+Photo Recovery Ubuntu
+<pre>
+sudo photorec
+</pre>
 ImortantLinks
 -------------
-#Git try
+Git try
 https://try.github.io/levels/1/challenges/1
-#####Sliding photo from Json
+Sliding photo from Json
 http://androidopentutorials.com/
-#####Google Play Service In Emulator
-#####windows
+Google Play Service In Emulator
+windows
 http://www.securitylearn.net/2013/08/31/google-play-store-on-android-emulator/
-#####Linux
+Linux
 http://stackoverflow.com/questions/11154222/google-play-on-android-4-0-emulator
-#####Add toolbar to an app
+Add toolbar to an app
 http://developer.android.com/training/appbar/setting-up.html
-#####Navigation indecator Color change
+Navigation indecator Color change
 http://stackoverflow.com/questions/31626488/change-the-color-of-navigation-drawer-indicator-icon
-#####Different Matarial Animation
+Different Matarial Animation
 https://github.com/lgvalle/Material-Animations
-#####SettingActivity PreferencesActivity
+SettingActivity PreferencesActivity
 https://github.com/AndroidDeveloperLB/MaterialPreferenceLibrary
-#####Different payment methods
+Different payment methods
 http://www.freelancerstory.com/
 
 Install Avro In Linux
